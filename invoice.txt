@@ -1,0 +1,4 @@
+Customer: Camille Molliex
+Invoice Number: INV-2023-06
+Amount: 1000.0
+Due Date: 2023-06-01
